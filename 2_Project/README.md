@@ -5,9 +5,11 @@
 - Design
 - Test plan
 ## Code Quality
-   ![codequality](<a href="https://app.codiga.io/public/user/github/naresh9908">
+ <a href="https://app.codiga.io/public/user/github/naresh9908">
    <img src="https://api.codiga.io/public/badge/user/github/naresh9908?style=light" alt="codiga badge" />
-</a>)
+</a>
+
+![codequality](https://api.codiga.io/project/31727/score/svg)
 
  
  ## Code Grade
