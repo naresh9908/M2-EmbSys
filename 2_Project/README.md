@@ -9,11 +9,12 @@
    <img src="https://api.codiga.io/public/badge/user/github/naresh9908?style=light" alt="codiga badge" />
 </a>
 
-![codequality](https://api.codiga.io/project/31727/score/svg)
+ 
 
  
  ## Code Grade
  ![codegrade](https://api.codiga.io/project/31727/status/svg)
+ ![codequality](https://api.codiga.io/project/31727/score/svg)
   
  ## Build Status
   [![C/C++ CI](https://github.com/naresh9908/M2-EmbSys/actions/workflows/c-build.yml/badge.svg)](https://github.com/naresh9908/M2-EmbSys/actions/workflows/c-build.yml)
