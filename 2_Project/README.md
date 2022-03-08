@@ -5,6 +5,8 @@
 - Design
 - Test plan
 ## Code Quality
+   ![codequality](https://app.codiga.io/public/user/github/naresh9908)
+   
   ![codequality](https://api.codiga.io/project/31727/score/svg)
  
 
