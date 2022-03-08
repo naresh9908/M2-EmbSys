@@ -1,6 +1,4 @@
-# M2_Embedded_SeatHeatingApplication
- 
-## Embedded C Programming - Seat Heating Application
+
 #### TEST PLAN:
 ### High Level Test plan:
 | ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
