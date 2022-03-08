@@ -43,6 +43,6 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
   
 | No. | Challenge | Solution
 |-----|-----------|--------
-|1. | On the simulide latest version some sources are not available| By the help of connect class solved |
+|1. | On the simulide latest version some sources are not available| By the reconnect class solved |
 |2. | issues in implementation | fixed them by making template in order
 |3. | Issues in workflows | fixed them by updating the path to all files correctly
