@@ -5,14 +5,17 @@
 - Design
 - Test plan
 ## Code Quality
+  ![codequality](https://api.codiga.io/project/31727/score/svg)
  
 
  
  ## Code Grade
+ ![codegrade](https://api.codiga.io/project/31727/status/svg)
   
  ## Build Status
+  [![C/C++ CI](https://github.com/naresh9908/M2-EmbSys/actions/workflows/c-build.yml/badge.svg)](https://github.com/naresh9908/M2-EmbSys/actions/workflows/c-build.yml)
   
-  
+
  
 ## Folder Structure
 Folder                   | Description
